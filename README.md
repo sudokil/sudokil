@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sudokil
 - 👀 I’m interested in ... self-reflection ...
-- 🌱 I’m currently learning C language
+- 🌱 I’m currently learning Frontend
 - 💞️ I’m looking to collaborate on ... time will tell ...
 - 📫 You can reach me on telegram: t.me/*
 

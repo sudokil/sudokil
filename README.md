@@ -2,7 +2,7 @@
 - 👀 I’m interested in 🌌
 - 🌱 I’m currently learning Front-end
 - 💞️ I’m looking to collaborate on 🌐
-- 📫 You can reach me on telegram: t.me/sudokil
+- 📫 You can reach me on telegram: t.me/*
 
 <!---
 sudokil/sudokil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

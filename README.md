@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sudokil
-- 👀 I’m interested in ... self-reflection ...
+- 👀 I’m interested in 🌀
 - 🌱 I’m currently learning Frontend
-- 💞️ I’m looking to collaborate on ... time will tell ...
+- 💞️ I’m looking to collaborate on 🌐
 - 📫 You can reach me on telegram: t.me/sudokil
 
 <!---
